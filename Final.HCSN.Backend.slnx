@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Final.HCSN.Api/Final.HCSN.Api.csproj" />
+  <Project Path="Final.HCSN.Core/Final.HCSN.Core.csproj" />
+  <Project Path="Final.HCSN.Infrastructure/Final.HCSN.Infrastructure.csproj" />
+</Solution>
